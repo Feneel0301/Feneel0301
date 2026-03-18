@@ -137,7 +137,7 @@ The **future** of technology is being built right now, and I’m thrilled to be 
 
 ## ⚡ **GitHub Stats**
 
-![Feneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feneel-solanki&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Feneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feneel0301&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
